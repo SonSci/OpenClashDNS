@@ -3,7 +3,7 @@
 # DOMAIN=匹配域名
 # IP-CIDR=匹配IP
 
-DOMAIN-SUFFIX,mypikpak.com
+
 DOMAIN-SUFFIX,jinjier.art
 DOMAIN-SUFFIX,steamstatic.com
 DOMAIN-SUFFIX,steampowered.com
